@@ -1,7 +1,7 @@
 """
 Preflight approach inspired by
-# https://gist.github.com/kamalgill/b1f682dbdc6d6df4d052
-# MIT License Protected code
+https://gist.github.com/kamalgill/b1f682dbdc6d6df4d052
+MIT License Protected code
 """
 
 def add_cors_to_response(event):

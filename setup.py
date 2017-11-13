@@ -5,7 +5,7 @@ setup(
     name='pyramid_default_cors',
     version='0.2.1',
     description='Default wiring for CORS XHR',
-    long_description='README.md',
+    long_description_markdown_filename='README.md',
     author='Mark Floyd',
     author_email='mark@goodrx.com',
     url='https://github.com/GoodRx/pyramid_default_cors',
